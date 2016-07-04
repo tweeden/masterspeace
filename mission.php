@@ -13,18 +13,17 @@
 
   </head>
 
-  <body id="home">
+  <body id="mission">
     <section class="container">
         <div class="content row">
-
+            
             <section class="col-lg-8">
                 <?php include "bootstrap/components/php/header.php"; ?>
             </section><!-- main -->
 
             <section class="col-lg-4">
             </section><!-- sidebar -->
-        </div><!-- content end -->
-        <?php include "bootstrap/components/php/footer.php"; ?>
+        </div><!-- row end -->
     </section><!-- container end -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
