@@ -16,9 +16,8 @@
   <body id="mission">
     <section class="container">
         <div class="content row">
-
+            <?php include "bootstrap/components/php/header.php"; ?>
             <section class="col-lg-8">
-                <?php include "bootstrap/components/php/header.php"; ?>
             </section><!-- main -->
 
             <section class="col-lg-4">

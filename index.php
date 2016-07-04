@@ -21,6 +21,7 @@
             <?php include "bootstrap/components/php/header.php"; ?>
             <?php include "bootstrap/components/php/snippet-carousel.php"; ?>
             <section class="col-lg-8">
+                <?php include "bootstrap/components/php/article-intro.php"; ?>
 
             </section><!-- main -->
 

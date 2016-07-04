@@ -1,4 +1,4 @@
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel class= hidden-sm hidden-xs slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -11,17 +11,26 @@
     <div class="item active">
       <img src="images/hand_praise.jpg" alt="Hands Raised Up">
       <div class="carousel-caption">
-        ...
-      </div>
-    </div>
+        <p><h1>Happy Praise</h1></p>
+    </div><!-- First carousel-caption -->
+    </div><!-- First Image -->
+
     <div class="item">
       <img src="images/bg_happy_praise.jpg" alt="Happy Praise">
       <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    ...
-  </div>
+        <p><h1>Woman Praising</h1></p>
+    </div><!-- Second carousel-caption -->
+  </div><!-- Second Image -->
+
+  <div class="item">
+    <img src="images/woman_praying.jpg" alt="Happy Praise">
+    <div class="carousel-caption">
+      <p><h1>Prayer Overcomes All Things</h1></p>
+  </div><!-- Third carousel-caption -->
+</div><!-- Third Image -->
+
+    <p><h1>Let The Praise Begin</h1></p>
+</div><!-- Carousel-inner -->
 
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
