@@ -22,6 +22,7 @@
             <?php include "bootstrap/components/php/snippet-carousel.php"; ?>
             <section class="col-lg-8">
                 <?php include "bootstrap/components/php/article-intro.php"; ?>
+                <?php include "bootstrap/components/php/article-sermons.php"; ?>
 
             </section><!-- main -->
 

@@ -6,7 +6,7 @@
             </section><!-- branding -->
 
             <section class="navbar navbar-default">
-                <ul class="nav nav-pills nav-justified">
+                <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About us</a></li>
                     <li class="dropdown">
@@ -21,6 +21,12 @@
                     </li>
                     <li><a href="contact.php">Contact Us</a></li>
                     <li><a href="shop.php">Store</a></li>
+                    <li class="button">
+                    <button type="button" class="btn btn-danger navbar-btn">
+                        <a href="bootstrap/components/donation.php" class="button"></a>
+                         Donation
+                    </button>
+                    </li>
                 </ul><!-- nav -->
             </section><!-- navbar -->
 
