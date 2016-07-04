@@ -1,4 +1,3 @@
-<section class="container">
 <div class="content row">
     <div class="col-lg-12">
         <header class="clearfix">
@@ -7,11 +6,11 @@
             </section><!-- branding -->
 
             <section class="navbar navbar-default">
-                <ul class="nav navbar-nav">
+                <ul class="nav nav-pills nav-justified">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About us</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Belief<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Belief <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
                             <li><a tabindex="-1" href="vision.php">Statements</a></li>
                             <li class="divider"></li>
@@ -28,4 +27,3 @@
         </header><!-- header -->
     </div><!-- column -->
 </div><!-- content -->
-</section>
