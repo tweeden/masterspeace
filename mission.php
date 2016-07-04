@@ -16,7 +16,7 @@
   <body id="mission">
     <section class="container">
         <div class="content row">
-            
+
             <section class="col-lg-8">
                 <?php include "bootstrap/components/php/header.php"; ?>
             </section><!-- main -->
@@ -24,6 +24,7 @@
             <section class="col-lg-4">
             </section><!-- sidebar -->
         </div><!-- row end -->
+        <?php include "bootstrap/components/php/footer.php"; ?>
     </section><!-- container end -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
