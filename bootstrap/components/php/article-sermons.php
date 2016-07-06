@@ -7,7 +7,7 @@
         fatback ham sausage meatball swine meatloaf. Pork loin sirloin cupim
         shankle boudin ball tip tri-tip landjaeger prosciutto turducken.
     </p>
-        <p>Ham hock pastrami porchetta pork cow. Tri-tip bresaola rump
+        <p class="hidden-sm hidden-xs">Ham hock pastrami porchetta pork cow. Tri-tip bresaola rump
            frankfurter alcatra. Sirloin pastrami doner landjaeger, spare ribs
            venison pig kielbasa fatback filet mignon chuck. Shankle picanha
            t-bone pork chop capicola ground round shank venison ball tip

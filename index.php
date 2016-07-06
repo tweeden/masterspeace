@@ -23,10 +23,12 @@
             <section class="col-lg-8">
                 <?php include "bootstrap/components/php/article-intro.php"; ?>
                 <?php include "bootstrap/components/php/article-sermons.php"; ?>
+                <?php include "bootstrap/components/php/article-whatwebelieve.php"; ?>
 
             </section><!-- main -->
 
             <section class="col-lg-4">
+                <?php include "bootstrap/components/php/aside-register.php"; ?>
             </section><!-- sidebar -->
         </div><!-- content end -->
             <?php include "bootstrap/components/php/footer.php"; ?>
