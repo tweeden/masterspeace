@@ -12,7 +12,7 @@
     <link href="bootstrap/css/mystyles.css" rel="stylesheet" media="screen">
 
   </head>
-  <body id="schedule">
+  <body id="whatwebelieve">
       <section class="container">
           <div class="content row">
               <?php include "bootstrap/components/php/header.php"; ?>

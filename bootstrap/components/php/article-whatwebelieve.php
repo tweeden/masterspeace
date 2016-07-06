@@ -1,7 +1,7 @@
 <article class="whatwebelieve media">
     <h2>What We Believe</h2>
 
-    <a class="pull-right" href="vision.php"><img src="images/thumbnails/whatwebelieve_tn.jpg" alt="What We Blieve"</a>
+    <a class=href="whatwebelieve.php"><img src="images/thumbnails/whatwebelieve_tn.jpg" alt="What We Blieve"</a>
     <div class="media-body">
         <p>Bacon ipsum dolor amet landjaeger tenderloin pancetta, drumstick
             turducken beef boudin sirloin brisket shoulder short loin pork.

@@ -13,17 +13,74 @@
 
   </head>
   <body id="contact">
-    <section class="container">
-        <div class="row">
-            <?php include "bootstrap/components/php/header.php"; ?>
-            <section class="main col col-lg-8">
-            </section><!-- main -->
+      <section class="container">
+          <div class="content row">
+              <?php include "bootstrap/components/php/header.php"; ?>
 
-            <section class="sidebar col col-lg-4">
-            </section><!-- sidebar -->
-        </div><!-- row end -->
-        <?php include "bootstrap/components/php/footer.php"; ?>
-    </section><!-- container end -->
+              <section class="col-lg-8">
+                  <h2>Contact Us</h2>
+
+                  <!-- First question ------------------------------>
+
+                  <h4>Is this your first time on our website?</h4>
+                 <div class="radio">
+                   <label>
+                     <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                     yes
+                   </label>
+               </div><!--radio yes -->
+                 <div class="radio">
+                   <label>
+                     <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                     no
+                   </label>
+               </div><!-- radio no -->
+               <!-- First question end ------------------------------>
+
+               <!-- Second question ------------------------------>
+
+               <h4>Would you like someone to contact you?</h4>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                  yes
+                </label>
+            </div><!-- radio yes -->
+              <div class="radio">
+                <label>
+                  <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                  no
+                </label>
+            </div><!-- radio no -->
+            <!-- Second question end ------------------------------>
+
+            <!-- Third question ------------------------------>
+
+            <h4>Are you in search of a new church home?</h4>
+           <div class="radio">
+             <label>
+               <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+               yes
+             </label>
+         </div><!-- radio yes -->
+           <div class="radio">
+             <label>
+               <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+               no
+             </label>
+         </div><!-- radio no -->
+         <!-- Third question end ------------------------------>
+
+              </section><!-- main -->
+
+              <section class="col-lg-4">
+                  <?php include "bootstrap/components/php/aside-register.php"; ?>
+                  <?php include "bootstrap/components/php/aside-photos.php"; ?>
+                  <?php include "bootstrap/components/php/aside-accordion.php"; ?>
+              </section><!-- sidebar -->
+          </div><!-- content end -->
+              <?php include "bootstrap/components/php/footer.php"; ?>
+      </section><!-- container end -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>

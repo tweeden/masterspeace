@@ -13,17 +13,22 @@
 
   </head>
   <body id="sermons">
-    <section class="container">
-        <div class="row">
-            <?php include "bootstrap/components/php/header.php"; ?>
-            <section class="main col col-lg-8">
-            </section><!-- main -->
+      <section class="container">
+          <div class="content row">
+              <?php include "bootstrap/components/php/header.php"; ?>
 
-            <section class="sidebar col col-lg-4">
-            </section><!-- sidebar -->
-        </div><!-- row end -->
-        <?php include "bootstrap/components/php/footer.php"; ?>
-    </section><!-- container end -->
+              <section class="col-lg-8">
+                  <?php include "bootstrap/components/php/article-intro.php"; ?>
+              </section><!-- main -->
+
+              <section class="col-lg-4">
+                  <?php include "bootstrap/components/php/aside-register.php"; ?>
+                  <?php include "bootstrap/components/php/aside-photos.php"; ?>
+                  <?php include "bootstrap/components/php/aside-accordion.php"; ?>
+              </section><!-- sidebar -->
+          </div><!-- content end -->
+              <?php include "bootstrap/components/php/footer.php"; ?>
+      </section><!-- container end -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
