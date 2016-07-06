@@ -6,7 +6,7 @@
             </section><!-- branding -->
 
             <section class="navbar navbar-default">
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-left">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About us</a></li>
                     <li class="dropdown">
@@ -29,6 +29,13 @@
                     </li>
                 </ul><!-- nav -->
             </section><!-- navbar -->
+
+            <!-- Modal -->
+            <section id="modal" class="modal fade">
+                <div class="modal-body">
+                    <img <id="modalimage" src="" alt="Modal Photo">
+                </div><!-- modal-body -->
+            </section><!-- Modal -->
 
         </header><!-- header -->
     </div><!-- column -->

@@ -29,6 +29,7 @@
 
             <section class="col-lg-4">
                 <?php include "bootstrap/components/php/aside-register.php"; ?>
+                <?php include "bootstrap/components/php/aside-photos.php"; ?>
             </section><!-- sidebar -->
         </div><!-- content end -->
             <?php include "bootstrap/components/php/footer.php"; ?>

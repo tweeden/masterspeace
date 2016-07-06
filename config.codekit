@@ -1632,6 +1632,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/bootstrap\/components\/php\/aside-photos.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bootstrap\/components\/php\/aside-photos.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bootstrap\/components\/php\/aside-register.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1746,6 +1755,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/bh_davis_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27584,
+		"inputAbbreviatedPath": "\/images\/bh_davis_02.jpg",
+		"outputAbbreviatedPath": "\/images\/bh_davis_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bh_davis_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25672,
+		"inputAbbreviatedPath": "\/images\/bh_davis_03.jpg",
+		"outputAbbreviatedPath": "\/images\/bh_davis_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bp_davis_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54953,
+		"inputAbbreviatedPath": "\/images\/bp_davis_01.jpg",
+		"outputAbbreviatedPath": "\/images\/bp_davis_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/hand_praise.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1753,6 +1795,17 @@
 		"initialSize": 203239,
 		"inputAbbreviatedPath": "\/images\/hand_praise.jpg",
 		"outputAbbreviatedPath": "\/images\/hand_praise.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/husband.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23171,
+		"inputAbbreviatedPath": "\/images\/husband.jpg",
+		"outputAbbreviatedPath": "\/images\/husband.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
