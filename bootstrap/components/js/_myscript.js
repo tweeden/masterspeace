@@ -23,7 +23,7 @@ $('.modalphotos img').on('click', function() {
     var mysrc = this.src.substr(0, this.src.lenfth-7) + '.jpg';
     $('#modalimage').attr('src', mysrc);
     $('#modalimage').on('click', function(){
-        $('#modal').modal('hode');
+        $('#modal').modal('hide');
     })
 
 });

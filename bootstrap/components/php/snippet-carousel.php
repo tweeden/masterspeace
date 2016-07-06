@@ -9,21 +9,21 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/hand_praise.jpg" alt="Hands Raised Up">
+      <img src="images/carousel/hand_praise.jpg" alt="Hands Raised Up">
       <div class="carousel-caption">
         <p><h1>Happy Praise</h1></p>
     </div><!-- First carousel-caption -->
     </div><!-- First Image -->
 
     <div class="item">
-      <img src="images/bg_happy_praise.jpg" alt="Happy Praise">
+      <img src="images/carousel/bg_happy_praise.jpg" alt="Happy Praise">
       <div class="carousel-caption">
         <p><h1>Woman Praising</h1></p>
     </div><!-- Second carousel-caption -->
   </div><!-- Second Image -->
 
   <div class="item">
-    <img src="images/woman_praying.jpg" alt="Happy Praise">
+    <img src="images/carousel/woman_praying.jpg" alt="Happy Praise">
     <div class="carousel-caption">
       <p><h1>Prayer Overcomes All Things</h1></p>
   </div><!-- Third carousel-caption -->
