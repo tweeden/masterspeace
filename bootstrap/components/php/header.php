@@ -2,7 +2,7 @@
     <div class="col-lg-12">
         <header class="clearfix">
             <section id="branding">
-                <a href="index.php"><img src="images/misc/logo.png" alt="Happy Place"</a>
+                <a href="index.php"><img src="images/misc/logo.png" alt="Happy Place"></a>
             </section><!-- branding -->
 
             <section class="navbar navbar-default">
@@ -23,8 +23,7 @@
                     <li><a href="shop.php">Store</a></li>
                     <li class="button">
                     <button type="button" class="btn btn-danger navbar-btn">
-                        <a href="bootstrap/components/donation.php" class="button"></a>
-                         Donation
+                        <a href="bootstrap/components/php/donation.php" class="button">Donation</a>
                     </button>
                     </li>
                 </ul><!-- nav -->

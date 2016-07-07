@@ -18,13 +18,13 @@ $("[data-toggle='tooltip']").tooltip({ animation: true});
 $('.modalphotos img').on('click', function() {
     $('#modal').modal ( {
         show: true,
-    })
+    });
 
     var mysrc = this.src.substr(0, this.src.lenfth-7) + '.jpg';
     $('#modalimage').attr('src', mysrc);
     $('#modalimage').on('click', function(){
         $('#modal').modal('hide');
-    })
+    });
 
 });
 }); //jQuery is loaded

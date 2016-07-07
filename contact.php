@@ -28,48 +28,66 @@
                      <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
                      yes
                    </label>
-               </div><!--radio yes -->
+                </div><!--radio yes -->
                  <div class="radio">
                    <label>
                      <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
                      no
                    </label>
-               </div><!-- radio no -->
-               <!-- First question end ------------------------------>
+                </div><!-- radio no -->
+                <!-- First question end ------------------------------>
 
-               <!-- Second question ------------------------------>
+                <!-- Second question ------------------------------>
 
-               <h4>Would you like someone to contact you?</h4>
-              <div class="radio">
-                <label>
-                  <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
-                  yes
-                </label>
-            </div><!-- radio yes -->
-              <div class="radio">
-                <label>
-                  <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
-                  no
-                </label>
-            </div><!-- radio no -->
-            <!-- Second question end ------------------------------>
+                 <h4>Would you like someone to contact you?</h4>
+                <div class="radio">
+                    <label>
+                      <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                      yes
+                    </label>
+                </div><!-- radio yes -->
+                <div class="radio">
+                    <label>
+                      <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                      no
+                    </label>
+                </div><!-- radio no -->
+                <!-- Second question end ------------------------------>
 
-            <!-- Third question ------------------------------>
+                <!-- Third question ------------------------------>
 
-            <h4>Are you in search of a new church home?</h4>
-           <div class="radio">
-             <label>
-               <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
-               yes
-             </label>
-         </div><!-- radio yes -->
-           <div class="radio">
-             <label>
-               <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
-               no
-             </label>
-         </div><!-- radio no -->
-         <!-- Third question end ------------------------------>
+                <h4>Are you in search of a new church home?</h4>
+                 <div class="radio">
+                 <label>
+                   <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                   yes
+                 </label>
+                 </div><!-- radio yes -->
+                   <div class="radio">
+                     <label>
+                       <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                       no
+                     </label>
+                 </div><!-- radio no -->
+                 <!-- Third question end ------------------------------>
+
+                 <h4>Leave us a comment.</h4>
+                 <textarea class="form-control" rows="3"></textarea>
+
+                 <!-- Submit Form and Name and Email --------------------------->
+
+                 <h4>Submit your name and email</h4>
+                 <form class="form-inline">
+                   <div class="form-group">
+                     <label for="exampleInputName2">Name</label>
+                     <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe">
+                   </div>
+                   <div class="form-group">
+                     <label for="exampleInputEmail2">Email</label>
+                     <input type="email" class="form-control" id="exampleInputEmail2" placeholder="jane.doe@example.com">
+                   </div>
+                   <button type="submit" class="btn btn-default">Send</button>
+                 </form>
 
               </section><!-- main -->
 
